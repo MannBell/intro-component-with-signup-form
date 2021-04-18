@@ -1,0 +1,25 @@
+[
+  {
+    "type": "text"
+    , "field": "firstName"
+    , "fieldName": "First Name"
+  }
+  ,
+  {
+    "type": "text"
+    , "field": "lastName"
+    , "fieldName": "Last Name"
+  }
+  ,
+  {
+    "type": "email"
+    , "field": "email"
+    , "fieldName": "Email Address"
+  }
+  ,
+  {
+    "type": "password"
+    , "field": "password"
+    , "fieldName": "Password"
+  }
+]
